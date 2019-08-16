@@ -1,0 +1,20 @@
+#addIcon{
+    border-radius: 50%
+}
+
+#addField{
+    display: none;
+    border-radius: 50px;
+}
+
+#Add:hover #addField{
+    display: inline-block;
+}
+
+#Add:hover #addIcon{
+    display: none;
+}
+
+#Add{
+    cursor: pointer;
+}
